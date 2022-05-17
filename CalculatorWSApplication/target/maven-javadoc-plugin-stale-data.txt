@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/jafhet/.m2/repository/org/glassfish/metro/webservices-rt/2.3/webservices-rt-2.3.jar;C:/Users/jafhet/.m2/repository/org/glassfish/metro/webservices-api/2.3/webservices-api-2.3.jar;C:/Users/jafhet/.m2/repository/javax/annotation/javax.annotation-api/1.2-b03/javax.annotation-api-1.2-b03.jar;C:/Users/jafhet/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar;C:/Users/jafhet/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar;C:/Users/jafhet/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/jafhet/Documents/NetBeansProjects/CalculatorWSApplication/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jafhet/Documents/NetBeansProjects/CalculatorWSApplication/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculatorWSApplication-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/jafhet/Documents/NetBeansProjects/CalculatorWSApplication/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CalculatorWSApplication-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.calculatorwsapplication
+com.mycompany.calculatorwsapplication.resources
+org.me.calculator
+'C:/Users/jafhet/Documents/NetBeansProjects/CalculatorWSApplication/src/main/java/com/mycompany/calculatorwsapplication/JAXRSConfiguration.java'
+'C:/Users/jafhet/Documents/NetBeansProjects/CalculatorWSApplication/src/main/java/com/mycompany/calculatorwsapplication/resources/JavaEE8Resource.java'
+'C:/Users/jafhet/Documents/NetBeansProjects/CalculatorWSApplication/src/main/java/org/me/calculator/CalculatorWS.java'
+C:\Users\jafhet\.m2\repository\org\glassfish\metro\webservices-rt\2.3\webservices-rt-2.3.jar = 1652675017766
+C:\Users\jafhet\.m2\repository\org\glassfish\metro\webservices-api\2.3\webservices-api-2.3.jar = 1652675006640
+C:\Users\jafhet\.m2\repository\javax\annotation\javax.annotation-api\1.2-b03\javax.annotation-api-1.2-b03.jar = 1652675005753
+C:\Users\jafhet\.m2\repository\javax\javaee-api\8.0\javaee-api-8.0.jar = 1652239037712
+C:\Users\jafhet\.m2\repository\com\sun\mail\javax.mail\1.6.0\javax.mail-1.6.0.jar = 1652239021078
+C:\Users\jafhet\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar = 1652239019115
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\src\main\java = 1652672539356
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\allclasses-frame.html = 1652762914681
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\allclasses-noframe.html = 1652762914685
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\constant-values.html = 1652762914533
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\deprecated-list.html = 1652762914673
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\help-doc.html = 1652762914705
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\index-all.html = 1652762914661
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\index.html = 1652762914689
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\overview-frame.html = 1652762914365
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\overview-summary.html = 1652762914697
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\overview-tree.html = 1652762914637
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\package-list = 1652762914357
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\script.js = 1652762914709
+C:\Users\jafhet\Documents\NetBeansProjects\CalculatorWSApplication\target\apidocs\stylesheet.css = 1652456732828
